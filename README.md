@@ -1,2 +1,3 @@
 # AI-Behavioral-AI-Lab-Training
 This is the training for AI Lab
+The dataset shows clear morphological differences among the three iris species. Setosa consistently has the smallest petal length and width, making it easily distinguishable. Versicolor features intermediate petal and sepal sizes, overlapping slightly with the others but still distinct. Virginica exhibits the largest petal measurements, especially in length and width, differentiating it from both Setosa and Versicolor. Overall, petal length and petal width are the strongest predictors for separating species, while sepal measurements vary less distinctly. These patterns are valuable for classification models and biological interpretation of species differences.
